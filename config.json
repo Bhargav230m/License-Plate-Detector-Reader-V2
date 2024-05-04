@@ -1,0 +1,12 @@
+{
+    "model_paths": {
+        "license_plate_detection": "models/v3.pt"
+    },
+
+    "source": {
+        "url": null,
+        "image": null,
+        "video": null,
+        "camera": 0
+    }
+}
