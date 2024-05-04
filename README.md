@@ -1,15 +1,6 @@
 # License Plate Detector and Reader V2
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-<p><strong>Click this button to get the V1 of this system - </strong> <button onclick="window.location.href='https://github.com/Bhargav230m/License-Plate-Reader/tree/main'" style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;"><strong>License Plate Detector</strong></button> </p> 
-</body>
-</html>
+Click this button to get the V1 of this system - [License Plate Detector](https://github.com/Bhargav230m/License-Plate-Reader/tree/main)
 
 ---
 
